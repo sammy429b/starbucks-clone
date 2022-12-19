@@ -1,2 +1,3 @@
 # starbucks-clone
-https://gregarious-pie-28e37e.netlify.app
+https://thestarbucksclone.netlify.app/
+
